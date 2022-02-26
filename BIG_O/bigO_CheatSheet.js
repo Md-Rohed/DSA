@@ -26,7 +26,7 @@ O(a*b)
 Rule 4: Drop Non-dominant terms
 -What causes Space complexity?-
 Variables
-Data Structures
+Data Structures 
 Function Call
 Allocations
 */
